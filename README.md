@@ -36,12 +36,4 @@ Les données utilisées pour ce projet peuvent être téléchargées à [cette a
 2. Minimiser le coût d’erreur de prédiction des FN et FP.
 3. Utiliser l'AUC et l'accuracy pour comparaison et contrôle.
 
-## Contribution
 
-Ce projet est supervisé par Michaël, manager chez "Prêt à dépenser".
-
----
-
-**Note** : Remplacez "URL_DU_LOGO" et "URL_DE_TELECHARGEMENT" par les liens réels pour le logo et les données respectivement.
-
-Ce résumé est un bon point de départ pour un README. Vous pouvez le personnaliser davantage en ajoutant des captures d'écran, des détails sur les dépendances logicielles, des instructions d'installation ou d'exécution, etc. selon les besoins de votre projet.
