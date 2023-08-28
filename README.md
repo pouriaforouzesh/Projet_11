@@ -1,6 +1,3 @@
-Voici un exemple de `README.md` pour votre projet :
-
----
 
 # Projet de Scoring Crédit pour "Prêt à dépenser"
 
